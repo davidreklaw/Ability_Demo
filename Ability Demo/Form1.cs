@@ -14,11 +14,11 @@ namespace Ability_Demo
     {
         private bool labelExists = false;
         private bool textExists = false;
-        private Label label;
-        private TextBox text;
         private Size formSize;
         private int controlWidth;
         private int controlHeight;
+        private UserControl1.UserControl1 userControl1;
+        private UserControl1.UserControl2 userControl2;
 
         public Form1()
         {
@@ -35,19 +35,16 @@ namespace Ability_Demo
             if (this.labelExists)
             {
                 this.labelExists = false;
-                this.Controls.Remove(this.label);
+                this.Controls.Remove(this.userControl1);
                 this.uc1Button.Text = "Add UC1";
             }
             else
             {
-                this.label = new Label();
-                this.label.Text = "User Control 1";
-                this.label.Height = this.controlHeight;
-                this.label.Width = this.controlWidth;
-                this.label.Location = new Point(30,30);
-                this.Controls.Add(this.label);
-                this.labelExists = true;
+                this.userControl1 = new UserControl1.UserControl1();
+                this.userControl1.Location = new Point(30, 30);
+                this.Controls.Add(this.userControl1);
                 this.uc1Button.Text = "Remove UC1";
+                this.labelExists = true;
             }
         }
 
@@ -55,18 +52,15 @@ namespace Ability_Demo
         {
             if (this.textExists)
             {
-                this.Controls.Remove(this.text);
+                this.Controls.Remove(this.userControl2);
                 this.textExists = false;
                 this.uc2Button.Text = "Add UC2";
             }
             else
             {
-                this.text = new TextBox();
-                this.text.Text = "User Control 2";
-                this.text.Width = this.controlWidth;
-                this.text.Height = this.controlHeight;
-                this.text.Location = new Point(30, 70);
-                this.Controls.Add(this.text);
+                this.userControl2 = new UserControl1.UserControl2();
+                this.userControl2.Location = new Point(30, 100);
+                this.Controls.Add(this.userControl2);
                 this.textExists = true;
                 this.uc2Button.Text = "Remove UC2";
             }

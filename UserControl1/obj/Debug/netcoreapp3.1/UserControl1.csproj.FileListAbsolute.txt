@@ -1,0 +1,12 @@
+C:\Users\theda\source\repos\Ability Demo\UserControl1\bin\Debug\netcoreapp3.1\UserControl1.deps.json
+C:\Users\theda\source\repos\Ability Demo\UserControl1\bin\Debug\netcoreapp3.1\UserControl1.dll
+C:\Users\theda\source\repos\Ability Demo\UserControl1\bin\Debug\netcoreapp3.1\UserControl1.pdb
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.UserControl1.resources
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.UserControl2.resources
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.csproj.GenerateResource.cache
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.AssemblyInfoInputs.cache
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.AssemblyInfo.cs
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.csproj.CoreCompileInputs.cache
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.dll
+C:\Users\theda\source\repos\Ability Demo\UserControl1\obj\Debug\netcoreapp3.1\UserControl1.pdb

@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "UserControl1/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/UserControl1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UserControl1.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "UserControl1/1.0.0": {
-      "type": "project",
-      "path": "../UserControl1/UserControl1.csproj",
-      "msbuildProject": "../UserControl1/UserControl1.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "UserControl1 >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\theda\\.nuget\\packages\\": {},
@@ -36,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theda\\source\\repos\\Ability Demo\\Ability Demo\\Ability Demo.csproj",
-      "projectName": "Ability Demo",
-      "projectPath": "C:\\Users\\theda\\source\\repos\\Ability Demo\\Ability Demo\\Ability Demo.csproj",
+      "projectUniqueName": "C:\\Users\\theda\\source\\repos\\Ability Demo\\UserControl2\\UserControl2.csproj",
+      "projectName": "UserControl2",
+      "projectPath": "C:\\Users\\theda\\source\\repos\\Ability Demo\\UserControl2\\UserControl2.csproj",
       "packagesPath": "C:\\Users\\theda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theda\\source\\repos\\Ability Demo\\Ability Demo\\obj\\",
+      "outputPath": "C:\\Users\\theda\\source\\repos\\Ability Demo\\UserControl2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,11 +38,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\theda\\source\\repos\\Ability Demo\\UserControl1\\UserControl1.csproj": {
-              "projectPath": "C:\\Users\\theda\\source\\repos\\Ability Demo\\UserControl1\\UserControl1.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -86,12 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

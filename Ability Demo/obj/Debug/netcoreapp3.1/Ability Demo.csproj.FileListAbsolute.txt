@@ -4,7 +4,6 @@ C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\Ab
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\Ability Demo.runtimeconfig.dev.json
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\Ability Demo.dll
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\Ability Demo.pdb
-C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.csproj.AssemblyReference.cache
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability_Demo.Form1.resources
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.csproj.GenerateResource.cache
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,7 @@ C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ab
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.dll
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.pdb
 C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.genruntimeconfig.cache
+C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\UserControl1.dll
+C:\Users\theda\source\repos\Ability Demo\Ability Demo\bin\Debug\netcoreapp3.1\UserControl1.pdb
+C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.csproj.AssemblyReference.cache
+C:\Users\theda\source\repos\Ability Demo\Ability Demo\obj\Debug\netcoreapp3.1\Ability Demo.csproj.CopyComplete
